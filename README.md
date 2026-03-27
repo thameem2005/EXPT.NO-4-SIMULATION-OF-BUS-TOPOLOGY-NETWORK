@@ -1,4 +1,7 @@
+# DATE : 12/02/2026
 # EXPT.NO 4 SIMULATION OF BUS TOPOLOGY NETWORK
+
+
 # AIM
 
 To create and monitor Bus Topology and effective data transmission using NS2 Software.
@@ -59,6 +62,7 @@ $ns run
  
 # OUTPUT
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/efc178f2-beeb-4d49-bd7c-fe72fea96c90" />
 
 # RESULT
 
